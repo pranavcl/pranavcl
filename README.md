@@ -1,2 +1,2 @@
-!\[Profile Banner](./banner-compressed.gif)
+![Profile Banner](https://raw.githubusercontent.com/pranavcl/pranavcl/refs/heads/main/banner-compressed.gif)
 
